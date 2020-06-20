@@ -10,8 +10,8 @@ comfortable with learning on-the-go, always ready to find and overcome new obsta
 
 ## Projects and Studies:
 
-* **Bulding Music Recommendation With Audio Features From Spotify Dataset:** https://bit.ly/3cdckqJ
-* **Data Science Studies:** https://bit.ly/2wHiD6l
+* **Bulding Music Recommendation With Audio Features From Spotify Dataset:** https://bit.ly/37Ml063 
+* **Data Science Studies:** https://bit.ly/2CqytEU
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/muhammad-ramzy-a705ab116)
