@@ -16,7 +16,7 @@ comfortable with learning on-the-go, always ready to find and overcome new obsta
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/muhammad-ramzy-a705ab116)
 * [github](https://github.com/netizet)
-* [CV](https://res.cloudinary.com/netizet/image/upload/v1593156726/CV_Muhammad_Ramzy_1_jezg8z.pdf)
+* [CV](https://filebin.net/haroljfazwwm5rh6/CV_Muhammad_Ramzy__1_.pdf?t=v20lql0f)
 
 **Contact:**
 * muhammadrmz@gmail.com
